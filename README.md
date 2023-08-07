@@ -1,1 +1,2 @@
-# Amazon_Clone_Project
+# Amazon_Clone_Project 
+As part of my web development portfolio, I worked on an Amazon clone project, which aimed to recreate the front-end user interface of the popular e-commerce platform Amazon. The project was built using HTML and CSS, showcasing my skills in web development, design, and layout.The Amazon clone project showcased my proficiency in HTML and CSS, and my ability to recreate complex web interfaces. This project allowed me to hone my front-end web development skills, and I am excited to continue expanding my knowledge and exploring more advanced technologies in future projects.
